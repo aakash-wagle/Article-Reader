@@ -9,6 +9,5 @@ To run the program on your system:
     2. selenium
     3. bs4
     4. requests
-    5. tkinter
 4. Run the ‘ARGUI.py’ file, not the ‘ArticleReader.py’ file.
 5. Running ‘ArticleReader.py’ would not generate a GUI.
